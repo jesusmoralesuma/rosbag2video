@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 """
 rosbag2video.py
@@ -6,7 +6,10 @@ rosbag to video file conversion tool
 by Abel Gabor 2019
 baquatelle@gmail.com
 requirements:
+For ubuntu 20.04
 sudo apt install python3-roslib python3-sensor-msgs python3-opencv ffmpeg
+For ubuntu 18.04 or lower
+sudo apt install python-roslib python-sensor-msgs python-opencv ffmpeg
 based on the tool by Maximilian Laiacker 2016
 post@mlaiacker.de"""
 

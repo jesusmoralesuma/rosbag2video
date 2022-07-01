@@ -22,6 +22,10 @@ For use with **ROS1** bags, please proceed with the instructions below.
 
     sudo apt install python3-roslib python3-sensor-msgs python3-opencv
 
+or
+
+    sudo apt install python-roslib python-sensor-msgs python-opencv
+
 
 
 ## **Usage**:
